@@ -1,0 +1,9 @@
+# Generated on 2026-11-05
+*.ts linguist-detectable
+dist/* linguist-vendored
+public/*.html linguist-vendored
+
+src/**/*.ts linguist-detectable
+
+*.woff2 binary
+public/index.html linguist-vendored
